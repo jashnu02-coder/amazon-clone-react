@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/amazon-clone/static/css/main.abcf22db.css",
+    "main.js": "/amazon-clone/static/js/main.e0fe0505.js",
+    "static/media/banner1.jpg": "/amazon-clone/static/media/banner1.8b63a888fb298d44d255.jpg",
+    "static/media/banner3.jpg": "/amazon-clone/static/media/banner3.e080b08ba0c388697837.jpg",
+    "static/media/banner2.jpeg": "/amazon-clone/static/media/banner2.4f80bf5ffa003224d921.jpeg",
+    "static/media/Makeupset.jpeg": "/amazon-clone/static/media/Makeupset.f40cdc874ed710c063ae.jpeg",
+    "static/media/Fragnances.jpeg": "/amazon-clone/static/media/Fragnances.c5fd282b9b25f522d94b.jpeg",
+    "index.html": "/amazon-clone/index.html",
+    "main.abcf22db.css.map": "/amazon-clone/static/css/main.abcf22db.css.map",
+    "main.e0fe0505.js.map": "/amazon-clone/static/js/main.e0fe0505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abcf22db.css",
+    "static/js/main.e0fe0505.js"
+  ]
+}

@@ -7,7 +7,6 @@ It replicates the basic functionality of an e-commerce platform including produc
 
 The application demonstrates core frontend development concepts such as **component-based architecture, routing, state management, and dynamic UI rendering**.
 
----
 
 Features
 
@@ -23,7 +22,6 @@ Features
 * Order success message
 * Similar products recommendation section
 
----
 Technologies Used
 
 * React.js
@@ -33,56 +31,43 @@ Technologies Used
 * React Router DOM
 * Material UI Icons
 
----
+
 
 Installation & Setup
 
-```
 
 1) Install dependencies
 
-```
 npm install
-```
 
 2) Run the project
 
-```
 npm start
-```
 
 The application will run at:
 
-```
 http://localhost:3000
-```
-
----
 
 
 Dependencies
 
 Main packages used in the project:
 
-```
 -react
 -react-dom
 -react-router-dom
 -@mui/icons-material
-```
 
----
 Learning Outcomes
 
 Through this project, I learned:
 
-* Building reusable components in React
-* Implementing routing using React Router
-* Managing application state using React Hooks
-* Designing responsive UI layouts
-* Creating a structured frontend project
+- Building reusable components in React
+- Implementing routing using React Router
+- Managing application state using React Hooks
+- Designing responsive UI layouts
+- Creating a structured frontend project
 
----
 
 
 

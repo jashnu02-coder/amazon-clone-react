@@ -65,10 +65,10 @@ Dependencies
 Main packages used in the project:
 
 ```
-react
-react-dom
-react-router-dom
-@mui/icons-material
+-react
+-react-dom
+-react-router-dom
+-@mui/icons-material
 ```
 
 ---
